@@ -8,15 +8,15 @@ const Hero = () => {
   // Carousel images data
   const carouselImages = [
     {
-      src: "src/assets/image/back.png",
+      src: "/image/back.png",
       alt: "IELTS Success Story 1"
     },
     {
-      src: "src/assets/image/bg1.png",
+      src: "/image/bg1.png",
       alt: "IELTS Success Story 2"
     },
     {
-      src: "src/assets/image/bg2.png",
+      src: "/image/bg2.png",
       alt: "IELTS Success Story 3"
     }
   ];
